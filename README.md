@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src ="https://devathon.com/blog/wp-content/uploads/sites/2/2020/02/react-MEAN-vs_MERN.jpg" />
+<img src ="https://www.webhopers.com/wp-content/uploads/2021/05/MERN-Stack-Development-Company.png" />
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">A passionate MERN Stack developer from India .</h3>
 
