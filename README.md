@@ -1,5 +1,5 @@
 
-<img width="100%" src ="https://wallpapercave.com/wp/wp8904202.jpg" />
+<img width="100%" src ="https://www.topsinfosolutions.com/wp-content/uploads/2020/07/mern-stack.png" />
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">A passionate MERN Stack developer from India .</h3>
 
