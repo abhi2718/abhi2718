@@ -18,7 +18,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cht7sJ4CG5_cFkWjuqfR8UZNpvR6bWyS/view?usp=sharing](https://drive.google.com/file/d/1cht7sJ4CG5_cFkWjuqfR8UZNpvR6bWyS/view?usp=sharing)
 
 - ⚡ Fun fact **I think , i am funny .**
-<h3 align="left">Intern Certificate :</h3>
+<h3 align="left">Internship Certificate :</h3>
 <ul>
   <h3 align="left">Certificate of selection:</h3>
   <a href="https://drive.google.com/file/d/1DMbPXWkXdQJEoVvJa4AB1onjOHCyMmqQ/view?usp=sharing">https://drive.google.com/file/d/1DMbPXWkXdQJEoVvJa4AB1onjOHCyMmqQ/view?usp=sharing</a>
