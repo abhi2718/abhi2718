@@ -1,5 +1,5 @@
 
-<img width="100vw" src ="https://www.ittrainingnepal.com/public/courses/20021063324MERN-Application.png" />
+<img width="100%" src ="https://www.ittrainingnepal.com/public/courses/20021063324MERN-Application.png" />
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">A passionate MERN Stack developer from India .</h3>
 
