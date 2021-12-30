@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React , React-Native , Redux , Firebase ,Node.js ,Express.js ,Mongodb , Git ,Heroku**
 
-- 📫 How to reach me **Email :- abhiwebdev2718@gmail.com , LinkedIN :- https://www.linkedin.com/in/abhishek-singh-5586ba222/**
+- 📫 How to reach me **Email :- abhiwebdev2718@gmail.com , LinkedIN :- https://www.linkedin.com/in/abhishek-singh-5586ba222?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BX8CDA%2FW8SA2pszW6XDeP8Q%3D%3D**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cht7sJ4CG5_cFkWjuqfR8UZNpvR6bWyS/view?usp=sharing](https://drive.google.com/file/d/1cht7sJ4CG5_cFkWjuqfR8UZNpvR6bWyS/view?usp=sharing)
 
