@@ -6,25 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi2718&label=Profile%20views&color=0e75b6&style=flat" alt="abhi2718" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi2718" alt="abhi2718" /></a> </p>
-
-- 🔭 I’m currently working on [Bootcamp API](https://github.com/abhi2718/Bootcanp_API)
-
-- 👯 I had contributed in [Kangaroo Local Delivery android app as react-native developer](https://play.google.com/store/apps/details?id=com.kangaroocargo.user)
-
-- 💬 Ask me about **React , React-Native , Redux , Firebase ,Node.js ,Express.js ,Mongodb , Git ,Heroku**
-
-- 📫 How to reach me **Email :- abhiwebdev2718@gmail.com , LinkedIN :- https://www.linkedin.com/in/abhishek-singh-5586ba222?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BX8CDA%2FW8SA2pszW6XDeP8Q%3D%3D**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cht7sJ4CG5_cFkWjuqfR8UZNpvR6bWyS/view?usp=sharing](https://drive.google.com/file/d/1cht7sJ4CG5_cFkWjuqfR8UZNpvR6bWyS/view?usp=sharing)
-
+- 💬 Ask me about **React , React-Native , Redux , Firebase ,Node.js ,Express.js ,Mongodb , Git ,Heroku,Flutter,Dart,Socket.io,AWS**
+- 📫 How to reach me **Email :- abhiwebdev2718@gmail.com , LinkedIN :- https://www.linkedin.com/in/abhishek-singh-5586ba222?
 - ⚡ Fun fact **I think , i am funny .**
-<h3 align="left">Internship Certificate :</h3>
-<ul>
-  <h3 align="left">Certificate of selection:</h3>
-  <a href="https://drive.google.com/file/d/1DMbPXWkXdQJEoVvJa4AB1onjOHCyMmqQ/view?usp=sharing">https://drive.google.com/file/d/1DMbPXWkXdQJEoVvJa4AB1onjOHCyMmqQ/view?usp=sharing</a>
-   <h3 align="left">Certificate of complection:</h3>
-  <a href="https://drive.google.com/file/d/1AJyjb5mi62GW44BQkYttUxAKu1YL8qCS/view?usp=sharing">https://drive.google.com/file/d/1AJyjb5mi62GW44BQkYttUxAKu1YL8qCS/view?usp=sharing</a>
-</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/abhishek-singh-5586ba222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/abhishek-singh-5586ba222" height="30" width="40" /></a>
