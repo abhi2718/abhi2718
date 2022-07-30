@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi2718" alt="abhi2718" /></a> </p>
 - 💬 Ask me about **React , React-Native , Redux , Firebase ,Node.js ,Express.js ,Mongodb , Git ,Heroku,Flutter,Dart,Socket.io,AWS**
+
 - 📫 How to reach me **Email :- abhiwebdev2718@gmail.com , LinkedIN :- https://www.linkedin.com/in/abhishek-singh-5586ba222?
+
 - ⚡ Fun fact **I think , i am funny .**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
