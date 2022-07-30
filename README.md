@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi2718&label=Profile%20views&color=0e75b6&style=flat" alt="abhi2718" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi2718" alt="abhi2718" /></a> </p>
-- 💬 Ask me about **React , React-Native , Redux , Firebase ,Node.js ,Express.js ,Mongodb , Git ,Heroku,Flutter,Dart,Socket.io,AWS**
+- 💬 Ask me about **React , React-Native , Redux , Firebase , Node.js , Express.js , Mongodb , Git , Heroku, Flutter, Dart, Socket.io, AWS**
 
 - 📫 How to reach me **Email :- abhiwebdev2718@gmail.com , LinkedIN :- https://www.linkedin.com/in/abhishek-singh-5586ba222?
 
